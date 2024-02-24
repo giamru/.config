@@ -1,0 +1,10 @@
+require('gbrlmarn')
+--[===[
+require('plugins')
+require('binds')
+require('vim')
+require('theme')
+require('lsp')
+require('treesitter')
+require('remap')
+--]===]
